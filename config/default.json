@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://ductai:ductai232@ds249267.mlab.com:49267/urlshortenerdb",
+    "baseUrl": "http://localhost:5000"
+}
